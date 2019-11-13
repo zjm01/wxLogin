@@ -1,0 +1,1 @@
+export const RECEIVE_USER_INFO='receive_user_info' //接受用户信息// 没有绑定微信情况下保存手机号
